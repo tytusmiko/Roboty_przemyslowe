@@ -228,5 +228,13 @@ namespace WindowsFormsApp17
                 // Stan_Chwytaka = ?????????????????????????????
             }
         }
+
+        private void scrollbar2_wartosc_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+        // dodac poruszanie sie po cartezjanie podajesz mu x y i z i on sie porusza chujwie jak po kartezjanie podobno jkasa komenda typu plus 5 na X 
+        // swoja droga mozna dodac i po toolu ruszac sie na x i y i z tak zeby było to tez musi byc specjalna komenda 
+        // inteli sens podpowiada podobno komendy ale mozna to olac fajna sprawa 
     }
 }
